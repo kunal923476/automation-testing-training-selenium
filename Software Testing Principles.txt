@@ -1,0 +1,78 @@
+*****the seven different testing principles,
+_____________________________________________________________________________________________________________________
+1)Testing shows the presence of defects
+2)Exhaustive Testing is not possible
+3)Early Testing
+4)Defect Clustering
+5)Pesticide Paradox
+6)Testing is context-dependent
+7)Absence of errors fallacy
+
+1]Testing shows the presence of defects:-
+The test engineer will test the application to make sure that the application is bug or defects free. While doing testing,
+ we can only identify that the application or software has any errors.
+ The primary purpose of doing testing is to identify the numbers of unknown bugs with the help of various methods and testing
+ techniques because the entire test should be traceable to the customer requirement, which means that to find any defects that
+ might cause the product failure to meet the client's needs.
+
+By doing testing on any application, we can decrease the number of bugs,
+which does not mean that the application is defect-free because sometimes 
+the software seems to be bug-free while performing multiple types of testing on it. 
+But at the time of deployment in the production server, if the end-user encounters those bugs which are not found in the testing
+process.
+
+2) Exhaustive Testing is not possible:
+________________________________________
+Sometimes it seems to be very hard to test all the modules and their features with effective and non- effective combinations of 
+the inputs data throughout the actual testing process.
+Hence, instead of performing the exhaustive testing as it takes boundless determinations and most of the hard work is unsuccessful.
+So we can complete this type of variations according to the importance of the modules because the product timelines will not permit
+us to perform such type of testing scenarios.
+
+3)Early Testing:
+___________________
+early testing means that all the testing activities should start in the early stages of the software development life cycle's 
+requirement analysis stage to identify the defects because if we find the bugs at an early stage, it will be fixed in the initial
+ stage itself, which may cost us very less as compared to those which are identified in the future phase of the testing process.
+To perform testing, we will require the requirement specification documents; therefore, if the requirements are defined incorrectly,
+ then it can be fixed directly rather than fixing them in another stage, which could be the development phase.
+
+4)Pesticide Paradox:
+____________________
+This principle defined that if we are executing the same set of test cases again and again over a particular time,
+then these kinds of the test will not be able to find the new bugs in the software or the application.
+To get over these pesticide paradoxes, it is very significant to review all the test cases frequently.
+And the new and different tests are necessary to be written for the implementation of multiple parts of the application 
+or the software, which helps us to find more bugs.
+
+5)Defect Clustering;
+_________________________
+The defect clustering defined that throughout the testing process, we can detect the numbers of bugs which are correlated to a small
+ number of modules. We have various reasons for this, such as the modules could be complicated; the coding part may be complex,
+ and so on.
+
+These types of software or the application will follow the Pareto Principle, which states that we can identify that approx.
+ Eighty percent of the complication is present in 20 percent of the modules. With the help of this, we can find the uncertain 
+modules, but this method has its difficulties if the same tests are performing regularly, hence the same test will not able to
+ identify the new defects.
+
+6)Testing is context-dependent:
+_________________________________
+Testing is a context-dependent principle states that we have multiple fields such as e-commerce websites, commercial websites,
+and so on are available in the market. There is a definite way to test the commercial site as well as the e-commerce websites
+because every application has its own needs, features, and functionality. To check this type of application, we will take the 
+help of various kinds of testing, different technique, approaches, and multiple methods. Therefore, the testing depends on the 
+context of the application.
+
+7)Absence of errors fallacy:
+____________________________
+Once the application is completely tested and there are no bugs identified before the release, so we can say that the
+application is 99 percent bug-free. But there is the chance when the application is tested beside the incorrect requirements, 
+identified the flaws, and fixed them on a given period would not help as testing is done on the wrong specification, 
+which does not apply to the client's requirements. The absence of error fallacy means identifying and fixing 
+the bugs would not help if the application is impractical and not able to accomplish the client's requirements and needs.
+
+
+
+
+
